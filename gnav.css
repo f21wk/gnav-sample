@@ -1,5 +1,9 @@
 @charset "uft-8";
 
+.gnav {
+  display: none;
+}
+
 .gnav input {
   display: none;
 }
